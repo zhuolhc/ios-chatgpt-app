@@ -1,5 +1,6 @@
 # ios-chatgpt-app
 This is a chat gpt app for iphone, using chatgpt api.
+这是一个仿Chatgpt iOS端的iPhone 应用
 
 **light mode**
 
