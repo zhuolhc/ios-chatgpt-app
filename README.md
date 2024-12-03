@@ -15,3 +15,8 @@ This is a ChatGPT application for iphone, using chatgpt api.
 </p>
 
 **需要自行填写API key以及接口地址**
+
+<br>
+
+# LICENSE
+MIT
